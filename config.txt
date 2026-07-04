@@ -11,4 +11,4 @@
 8.8.4.4
 
 #Cache ==> ghi chú: value ==> [0: không làm gì cả, 1: xóa cache] mở launcher lên tiến hành xóa cache
-:Cache value = 20
+:Cache value = 0
