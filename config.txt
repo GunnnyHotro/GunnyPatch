@@ -1,4 +1,4 @@
-#HOST ==> ghi chú: value ==> [0: không làm gì cả, 1: cập nhật dòng theo tên miền, 2; xóa dòng theo tên miền] ==> mở launcher lên nếu value = 1 hãy kiểm tra file host nếu trùng dữ liệu thì thui, nếu khác thì cập nhật ==> value = 2 thì xóa dòng có tên miền
+#HOST ==> ghi chú: value ==> [0: không làm gì cả, 1: cập nhật dòng theo tên miền, 2; xóa dòng theo tên miền] ==> mở launcher lên nếu value = 1 hãy kiểm tra file host nếu trùng dữ liệu thì thui, nếu khác thì cập nhật ==> value = 2 thì xóa dòng có tên miền ==> kiểm tra xem cần quyền adm ko
 :HOST value = 0
 103.92.25.147	gunnylau360.net
 103.92.24.172	gunnylaupc.net
