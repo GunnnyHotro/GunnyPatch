@@ -1,9 +1,9 @@
-#HOST ==> ghi chú: vd: tách 103.92.25.147|gunnylau360.net|0 ra làm 3 phần '|' ==> ip|domain|value ==>value ==> ghi chú: value ==> [0: không làm gì cả, 1: cập nhật dòng theo tên miền, 2; xóa dòng theo tên miền] ==> mở launcher lên kiểm tra file host ==> xử lý update, xóa theo tên miền
-:HOST
-103.92.25.147|gunnylau360.net|0
-103.92.24.172|gunnylaupc.net|0
-103.92.24.178|gunnymienphi.net|0
-103.92.25.147|gunny360.net|0
+#HOST ==> ghi chú: value ==> [0: không làm gì cả, 1: cập nhật dòng theo tên miền, 2; xóa dòng theo tên miền] ==> mở launcher lên nếu value = 1 hãy kiểm tra file host nếu trùng dữ liệu thì thui, nếu khác thì cập nhật ==> value = 2 thì xóa dòng có tên miền
+:HOST value = 0
+103.92.25.147	gunnylau360.net
+103.92.24.172	gunnylaupc.net
+103.92.24.178	gunnymienphi.net
+103.92.25.147	gunny360.net
 
 #DNS ==> ghi chú: value ==> [0: không làm gì cả, 1: cập nhật dns] ==> mở launcher lên kiểm tra dns ==> tiến hành update 
 :DNS value = 1
