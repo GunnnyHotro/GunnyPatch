@@ -11,4 +11,12 @@
 8.8.4.4
 
 #Cache ==> ghi chú: value ==> [0: không làm gì cả, 1: xóa cache] mở launcher lên tiến hành xóa cache
-:Cache value = 15
+:Cache value = 0
+
+:SERVERLIST
+ID=1;ServerName=GUNNYLAUPC.NET;Link=gunnylaupc.net;IP=103.92.24.172;FileConfig=config.xml;BaoTri=False;New=True;ThongBao=khuyến mãi 500% giá trị cash nạp
+ID=2;ServerName=GUNNY360.NET;Link=gunny360.net;IP=103.92.25.147;FileConfig=config.xml;BaoTri=False;New=False;ThongBao=khuyến mãi 500% giá trị cash nạp
+ID=3;ServerName=GUNNYMIENPHI.NET;Link=gunnymienphi.net;IP=103.92.24.178;FileConfig=config.xml;BaoTri=False;New=False;ThongBao=khuyến mãi 500% giá trị cash nạp
+
+:HTML
+<html><head><meta charset=utf-8></head><body style="background:#CCC;color:blue"><h2><center>DANH SÁCH SERVER<br></center><div style="color:red"><h5>GUNNYPC.NET ==> GUNNYPC.NET<hr>GUNNYMIENPHI.NET ==> GUNNYMIENPHI.NET<hr>GUNNY360.NET ==> GUNNY360.NET <span style="color:#FF3">(*****)</span><br></h5></div><div style="text-align:right">BQT ZALO: 0786 621 458</div></h2></body></html>
