@@ -31,5 +31,5 @@ Máy chủ sẽ bảo trì lúc 22:00.
 :DOWNLOAD
 Launcher=https://raw.githubusercontent.com/GunnnyHotro/GunnyPatch/main/launcher.zip
 
-#CHILDLIST ==> ghi chú: link get danh sách server con
-:CHILDLIST  value = "serverconfig/DanhSachServerLists.php"
+#CHILD ==> ghi chú: link get danh sách server con
+:CHILD  value = "serverconfig/DanhSachServerLists.php"
