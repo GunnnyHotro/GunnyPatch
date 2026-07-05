@@ -29,7 +29,7 @@ Máy chủ sẽ bảo trì lúc 22:00.
 
 #DOWNLOAD ==> ghi chú: link update Launcher
 :DOWNLOAD
-Launcher=https://raw.githubusercontent.com/GunnnyHotro/GunnyPatch/main/launcher.zip
+Launcher=http://gunnymienphi.net/serverconfig/launcher.zip|http://gunny360.net/serverconfig/launcher.zip|http://gunnylaupc.net/serverconfig/launcher.zip|https://raw.githubusercontent.com/GunnnyHotro/GunnyPatch/main/launcher.zip
 
 #CHILD ==> ghi chú: link get danh sách server con
 :CHILD  value = "serverconfig/DanhSachServerLists.php"
